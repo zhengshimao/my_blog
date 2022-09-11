@@ -846,7 +846,7 @@ params:
     repo: zhengshimao/my_blog
     # Giscus 生成的仓库 Id
     # Generate repository Id from Giscus
-    repoId: #<repo-id>
+    repoId: my_blog
     # 讨论区的分类名称
     # Github discussions category
     category: Comments
