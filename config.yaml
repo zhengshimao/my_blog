@@ -793,6 +793,7 @@ params:
   # 更多配置信息请参考：https://waline.js.org/
   # Waline comments system
   # More info seee: https://waline.js.org/
+  # 郑：采用LeanCloud部署
   waline:
     pageView: true
     placeholder: "请文明发言"
