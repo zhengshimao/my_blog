@@ -133,7 +133,7 @@ menus:
     - identifier: work
       name: 找工作
       pageref: /work.html
-      pre: 
+      pre: people-pulling
       weight: 5
 
 #-----------------------------------------
@@ -286,7 +286,7 @@ params:
   # Value before `||` delimiter is the target permalink, value after `||` delimiter is the name of Font Awesome icon.
   socials: 
     social0: Github || https://github.com/zhengshimao || fab fa-github
-    #social1: E-Mail || mailto:yourname@gmail.com || fa fa-envelope
+    social1: E-Mail || mailto:zhengshimao007@163.com || fa fa-envelope
     social2: 知乎 || https://www.zhihu.com/people/deng-tu-lang-zi-l || fa fa-book
     #Google: https://plus.google.com/yourname || fab fa-google
     #Twitter: https://twitter.com/yourname || fab fa-twitter
@@ -328,8 +328,8 @@ params:
   # Links of your friends
   # Usage: `Key: name || permalink`
   links: 
-    link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
-    #link1: 凡梦星尘空间站 || https://lisenhui.cn
+    #link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
+    link1: 凡梦星尘空间站 || https://lisenhui.cn
 
   # 文章目录显示
   # Table of Contents in the Sidebar
