@@ -796,7 +796,7 @@ params:
   waline:
     pageView: true
     placeholder: "请文明发言"
-    emoji: false
+    emoji: true
     imgUploader: false
     wordLimit: 200
     requiredMeta: ['nick', 'mail']
@@ -843,7 +843,7 @@ params:
   giscus:
     # Github 仓库地址，格式：用户名/仓库名称
     # Github repository owner and name
-    repo: username/repo-name
+    repo: zhengshimao/my_blog
     # Giscus 生成的仓库 Id
     # Generate repository Id from Giscus
     repoId: #<repo-id>
