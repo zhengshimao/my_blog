@@ -476,8 +476,8 @@ params:
     # Donate type
     # Usage: `name:image url`
     reward:
-      wechatpay: /imgs/wechat-pay.png
-      alipay: /imgs/ali-pay.png
+      wechatpay: /imgs/wechat-pay.jpg
+      alipay: /imgs/ali-pay.jpg
       #paypal: /images/paypal.png
       #bitcoin: /images/bitcoin.png
 
