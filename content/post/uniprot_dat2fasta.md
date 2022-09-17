@@ -4,7 +4,7 @@ tags:
   - perl
   - Uniprot
   - 数据库
-keywords: 
+keywords: “数据库,注释”
 categories:
  - 归档
 

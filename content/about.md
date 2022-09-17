@@ -1,25 +1,24 @@
 ---
 copyright: false
-date: "2022-06-09T20:12:52+08:00"
-description: Hugo NexT 组织介绍说明。
+date: "2022-09-17"
+description: 个人介绍。
 followme: false
-lastmod: "2022-06-09T20:12:52+08:00"
+#lastmod: "2022-06-09T20:12:52+08:00"
 nav: false
 share: false
 title: 个人介绍
 url: about.html
 ---
 
-`Hugo NexT` 组织是由众多喜爱 `NexT` 主题及风格的世界各地友人共同组建而成，为的就是让这个主题继续在 `Hugo` 引擎中也能得到发扬光大，在此也欢迎你的加入！
+  郑世茂，29岁考上研究生开始接触到生信，然后开始了坎坷生信学习路。
+  
+## 为什么大龄考研？
 
-# 我们的愿景
+这个问题从我考上研究生后被问了1年半，最主要的想法还是改变生活多挣点钱，毕竟北京
+郊区一个月到手5k多只能勉强养活自己。所以，到现在还是单身狗。
 
-延续 `NexT` 经典的黑白调搭配，保持简单的易用性及强大的功能。
+## 为什么学生信
 
-# 使用反馈
+主要两个原因，一是毕业课题的被迫无奈😵，二是工资高呀😍
 
-- 加入 [GitHub Discussions](https://github.com/hugo-next/hugo-theme-next/discussions) 或 [Gitter](https://gitter.im/hugo-next/community) 在线讨论 :beers:
-- [GitHub Issues](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Bug&template=bug-report.md) 提交错误报告 :bug:
-- [GitHub Feature](https://github.com/hugo-next/hugo-theme-next/issues/new?labels=Feature+Request&template=feature-request.md) 表新功能的想法 :sparkles:
 
-> 同时国内用户也可加入 QQ 群交流： 604710815
