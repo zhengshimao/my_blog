@@ -120,7 +120,7 @@ menus:
       pageref: /about.html
       pre: user
       weight: 2
-    - identifier: flinks
+    - identifier: ability
       name: 科研技巧
       pageref: /ability
       pre: thumbs-up
