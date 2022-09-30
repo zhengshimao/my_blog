@@ -1,5 +1,5 @@
 ---
-title: 封个脚本 | featurecounts 结果合并、计算FPKM/TPM一步到位
+title: 封个R脚本 | featurecounts 结果合并、计算FPKM/TPM一步到位
 tags:
   - R
   - 转录组
@@ -14,8 +14,6 @@ toc: true
 draft: false
 url: run_merge_fc_counts_normalization.R.html
 ---
-
-# 2022.9.29 封个R脚本 | featurecounts 结果合并、计算FPKM/TPM一步到位
 
 ## 介绍
 
