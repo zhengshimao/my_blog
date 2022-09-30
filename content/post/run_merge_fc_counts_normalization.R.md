@@ -36,7 +36,7 @@ conda install -c bioconda bioconductor-edger #用了rpkm()函数算的FPKM
 ## 脚本使用
 
 - `-i, --input_path`  指定含有featurecounts结果的文件夹
-- `-p, --pattern` 用R中正则指定文件pattern。建议直接将featurecounts的结果文件后缀写为`.count` ，类似``<sample>.count` 格式，这个选项用默认的就可以了。
+- `-p, --pattern` 用R中正则指定文件pattern。建议直接将featurecounts的结果文件后缀写为`.count` ，类似`\<sample\>.count` 格式，这个选项用默认的就可以了。
 
 - `-o, --output_path` 输出文件结果文件夹指定
 - `-f, --prefix ` 输出结果文件名前缀，默认为"`my`"
