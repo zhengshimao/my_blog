@@ -1,0 +1,3 @@
+{{ $paginator := .Paginator.Pages.GroupByDate "2006" }}
+{{ partial "list.html" $paginator }}
+
