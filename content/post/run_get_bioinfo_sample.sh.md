@@ -213,7 +213,7 @@ echo "ParaFly -c run_axel_sra_from_ena.sh -CPU 1 -failed_cmds failed_axel_sra_fr
 echo "md5sum -c sra_md5.txt > md5.res #校验"
 echo "bash rename_sample.sh"
 echo "ParaFly -c run_pigz_fasterq_dump.sh -CPU 2 -failed_cmds failed_pigz_fasterq_dump.txt #首选"
-parallel-fastq-dump -h 1>/dev/null
+parallel-fastq-dump -h 1>/dev/null 2>&1 # 2022.10.17 修改
 if [ $? -eq 0 ];then
     echo 'ParaFly -c run_gzip_parallel-fastq-dump.sh -CPU 5 -failed_cmds failed_gzip_parallel-fastq-dump.txt #次选'
 else
