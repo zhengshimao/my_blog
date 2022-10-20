@@ -29,3 +29,10 @@ win10 右键设置小脚本
 
 链接：https://pan.baidu.com/s/1MBEnAlml-6q3SKu_YrDsaw 
 提取码：yyds 
+
+## 软件与脚本
+
+### Krait：软件与教程
+
+链接：https://pan.baidu.com/s/1qJRpvV05XEAygMGYYe7Yqg 
+提取码：yyds 
