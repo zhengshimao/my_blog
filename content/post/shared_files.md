@@ -36,3 +36,8 @@ win10 右键设置小脚本
 
 链接：https://pan.baidu.com/s/1qJRpvV05XEAygMGYYe7Yqg 
 提取码：yyds 
+
+### 转录组6个软件的定量示例数据
+
+链接：https://pan.baidu.com/s/1uNyIGPvjlOw-lADuNrml5Q
+提取码：yyds
