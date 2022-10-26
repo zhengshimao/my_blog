@@ -41,3 +41,8 @@ win10 右键设置小脚本
 
 链接：https://pan.baidu.com/s/1uNyIGPvjlOw-lADuNrml5Q
 提取码：yyds
+
+### 非模式生物根据eggnog注释结果构建orgdb 包
+
+链接：https://pan.baidu.com/s/1PqFJlAxrcToQ1BQiB8DfJg 
+提取码：yyds 
