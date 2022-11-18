@@ -74,7 +74,7 @@ suppressMessages(library(argparser)) #https://github.com/cran/argparser
 
 
 # 参数设置
-p <- arg_parser("Merge quantification files from featureCounts(linux version) and calculate FPKM/TPM")
+p <- arg_parser("Merge featureCounts(linux version) and calculate FPKM/TPM")
 
 p <- add_argument(p, "--input_path", help="input: a directory containing the counts matrix named with '<sample>.count'", type="character",default = "./")
 p <- add_argument(p, "--pattern", help="limit pattern of input files using regular expression in R language",type="character",default = "*count$")
@@ -89,8 +89,16 @@ pattern <- argv$pattern
 output_path <- argv$output_path
 output_prefix <- argv$prefix
 
+# 测试用
+
+#path <- "."
+#pattern <- "*count$"
+#output_path <- "../"
+#output_prefix <- "my"
+
 # 代码主体
 file_name <- dir(path = path,pattern = pattern)
+if(is_empty(file_name)){stop("\nCould not find files with pattern of '",pattern,"'!")}
 file <- paste0(path,"/",file_name)
 # merge all count matrix
 df <- read.table(file[1], header = T,comment.char = "#") %>% select(c(1,6,7))
@@ -118,8 +126,6 @@ cat("Calculating the TPM…\n")
 fpkm2tpm <- function(fpkm){
   if((is.matrix(fpkm) | is.data.frame(fpkm)) & all(fpkm>=0)){ #fpkm所有值为非负且为矩阵或者数据框
     tpm <- t(t(fpkm)/colSums(fpkm))*10^6
-  }else{
-    stop("The fpkm must be a matrix or data.frame with nonnegative numerical values!")
   }
   return(tpm)
 }
@@ -128,18 +134,18 @@ tpm <- fpkm2tpm(fpkm = fpkm) %>% as.data.frame()
 # write out 
 cat("writing out raw counts matrix\n")
 out_count_mat <- count_mat %>% rownames_to_column(var = "gene_id")
-count_file <- paste0(output_path,output_prefix,"_","genes.counts")
+count_file <- paste0(output_path,"/",output_prefix,"_","genes.counts")
 write.table(out_count_mat, file = count_file,sep = "\t", col.names = TRUE, row.names = FALSE, quote = FALSE)
 
 cat("writing out FPKM\n")
 out_fpkm <- fpkm %>% rownames_to_column(var = "gene_id")
-fpkm_file <- paste0(output_path,output_prefix,"_","genes.fpkm")
+fpkm_file <- paste0(output_path,"/",output_prefix,"_","genes.fpkm")
 write.table(out_fpkm, file = fpkm_file,sep = "\t", col.names = TRUE, row.names = FALSE, quote = FALSE)
 
 cat("writing out TPM\n")
 out_tpm <- tpm %>% rownames_to_column(var = "gene_id")
-tpm_file <- paste0(output_path,output_prefix,"_","genes.tpm")
-write.table(tpm, file = tpm_file,sep = "\t", col.names = TRUE, row.names = FALSE, quote = FALSE)
+tpm_file <- paste0(output_path,"/",output_prefix,"_","genes.tpm")
+write.table(out_tpm, file = tpm_file,sep = "\t", col.names = TRUE, row.names = FALSE, quote = FALSE)
 
 cat("Congratulations! All of the missions have been completed!\n")
 
