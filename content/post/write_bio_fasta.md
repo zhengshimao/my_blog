@@ -1,5 +1,5 @@
 ---
-title: 链接分享文档
+title: R函数 | 写个自己的write_fasta()导出fasta序列
 tags:
   - 我的R包
   - R
