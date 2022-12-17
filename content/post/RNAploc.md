@@ -53,7 +53,7 @@ CD-HIT-EST: https://github.com/weizhongli/cdhit/releases
 
 perl：`bioperl` 
 
-python3：`pandas ` `argparse  `  `numpy`  算是常见包，如果最后一步运行报错，自行安装。
+python3：`pandas ` `argparse  `  `numpy`  算是常见包，如果最后一步运行报错，自行安装。经测试`argparse  `  用`r-argparse`即可。
 
 其实，`RNAplonc/RNAplonc` 有单个可用的 `txCdsPredict`文件。不必去github安装`kentUtils`
 
