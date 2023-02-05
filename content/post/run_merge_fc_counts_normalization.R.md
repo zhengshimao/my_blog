@@ -3,7 +3,7 @@ title: 封个R脚本 | featurecounts 结果合并、计算FPKM/TPM一步到位
 tags:
   - R
   - 转录组
-  - 脚本
+  - R脚本
 keywords: “转录组，定量，R脚本”
 categories:
  - 归档

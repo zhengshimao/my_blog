@@ -4,6 +4,7 @@ tags:
   - perl
   - Uniprot
   - 数据库
+  - perl脚本
 keywords: “数据库,注释”
 categories:
  - 归档
