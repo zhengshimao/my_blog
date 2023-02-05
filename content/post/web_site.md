@@ -17,7 +17,11 @@ url: post/web_site.html
 
 ## 物种分类数据库
 
-[Flora of China](http://www.efloras.org/flora_page.aspx?flora_id=2)： 猕猴桃：http://www.efloras.org/browse.aspx?flora_id=2&start_taxon_id=100431
+[Flora of China](http://www.efloras.org/flora_page.aspx?flora_id=2)： 
+
+- 列表：http://flora.huh.harvard.edu/china/mss/alphabetical_families.htm
+
+- 猕猴桃：http://www.efloras.org/browse.aspx?flora_id=2&start_taxon_id=100431
 
 [iPlant 植物智](http://www.iplant.cn/) ：http://www.iplant.cn/
 
