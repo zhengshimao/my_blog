@@ -27,6 +27,16 @@ url: post/web_site.html
 
 [植物通](http://1.zhiwutong.com/) ： http://1.zhiwutong.com/
 
+## 物种基因组
+
+### 综合库
+
+已公布的植物基因组：[Published Plant Genomes](https://plabipd.de/plant_genomes_pa.ep) : https://plabipd.de/plant_genomes_pa.ep
+
+### 单物种库
+
+
+
 ## 物种数据库
 
 [拟南芥TAIR](https://www.arabidopsis.org/) :  https://www.arabidopsis.org/
