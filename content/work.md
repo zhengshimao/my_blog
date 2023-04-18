@@ -2,11 +2,7 @@
 
 https://fontawesome.com.cn/v5
 
-::: left
-
-:man: 男/1992.03 | :email: zhengshimao007@163.com
-
-<i class="fal fa-user"></i>
+<i class="fal fa-user"></i> 男/1992.03
 <i class="fa fa-envelope"></i>[Email](zhengshimao007@163.com)
 <i class="fa fa-blog"></i> [Blog](https://zhengshimao.netlify.app/) 
 <i class="fa fa-github"></i> [Github](https://github.com/zhengshimao)
