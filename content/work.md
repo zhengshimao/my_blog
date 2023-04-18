@@ -2,9 +2,9 @@
 
 https://fontawesome.com.cn/v5
 
-<i class="fal fa-user"></i> 男/1992.03
+<i class="fa fa-user"></i> 男/1992.03
 <i class="fa fa-envelope"></i>[Email](zhengshimao007@163.com)
-<i class="fa fa-blog"></i> [Blog](https://zhengshimao.netlify.app/) 
+<i class="fa fa-home"></i> [Blog](https://zhengshimao.netlify.app/) 
 <i class="fa fa-github"></i> [Github](https://github.com/zhengshimao)
 <i class="fa fa-book"></i>[知乎](https://www.zhihu.com/people/deng-tu-lang-zi-l)
 
