@@ -1,44 +1,23 @@
 # 郑世茂
 
+https://fontawesome.com.cn/v5
+
 ::: left
 
-icon:info 男/1992.03 | icon:email zhengshimao007@163.com
+:man: 男/1992.03 | :email: zhengshimao007@163.com
 
-icon:blog [https://zhengshimao.netlify.app/](https://zhengshimao.netlify.app/) | icon:github [https://github.com/zhengshimao](https://github.com/zhengshimao)
-
-:::  
-
-::: right 
-
-<img title="" src="https://cdn.mdedit.online/user/42520/c468b7a6-4ad1-44e6-af01-1b3bc8c5b40d.png" alt="图片1" width="100">
-
-:::  
+<i class="fal fa-user"></i>
+<i class="fa fa-envelope"></i>[Email](zhengshimao007@163.com)
+<i class="fa fa-blog"></i> [Blog](https://zhengshimao.netlify.app/) 
+<i class="fa fa-github"></i> [Github](https://github.com/zhengshimao)
+<i class="fa fa-book"></i>[知乎](https://www.zhihu.com/people/deng-tu-lang-zi-l)
 
 ## 教育经历
 
-:::left
-
-**太原科技大学 - 生物工程（学士）**
-
-:::
-
-:::right
-
-**2011.09 - 2015.06**
-
-:::
-
-:::left
-
-**陕西理工大学-生物化学与分子生物学（硕士）**
-
-:::
-
-:::right
-
-**2020.09 - 2023.06**
-
-:::
+| 学校         | 专业                 | 日期              | 学位 |
+| ------------ | -------------------- | ----------------- | ---- |
+| 太原科技大学 | 生物工程             | 2011.09 - 2015.06 | 学士 |
+| 陕西理工大学 | 生物化学与分子生物学 | 2020.09 - 2023.06 | 硕士 |
 
 ## 生信技能
 
@@ -73,25 +52,21 @@ icon:blog [https://zhengshimao.netlify.app/](https://zhengshimao.netlify.app/) |
   
   单细胞测序：做过基础分析流程.
   
-  
-  
+
 ## 工作经历
 
 ### 北京东方红航天生物技术股份有限公司
 
-:::left
+ 发酵主管   2015年09月 - 2020年04月
 
-发酵主管
-
-:::
-
-:::right
-
-2015年09月 - 2020年04月
-
-:::
 - 负责固体发酵工艺优化；
   
 - 负责菌株传代与保藏；
   
 - 负责空间诱变育种的菌种制备与筛选。
+
+<head> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/all.js"></script> 
+    <script defer src="https://use.fontawesome.com/releases/v5.0.13/js/v4-shims.js"></script> 
+</head> 
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css">
