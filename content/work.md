@@ -4,6 +4,8 @@
 
 icon:info 男/1992.03 | icon:email zhengshimao007@163.com
 
+icon:blog [https://zhengshimao.netlify.app/](https://zhengshimao.netlify.app/) | icon:github [https://github.com/zhengshimao](https://github.com/zhengshimao)
+
 :::  
 
 ::: right 
