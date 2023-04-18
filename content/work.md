@@ -2,8 +2,12 @@
 
 https://fontawesome.com.cn/v5
 
-<i class="fa fa-user"></i> 男/1992.03
-<i class="fa fa-envelope"></i>[Email](zhengshimao007@163.com)
+<i class="fa fa-user"></i> 郑世茂/男/1992.03
+<i class="fa fa-home-heart"/>家乡：河北衡水
+<i class="fa fa-envelope"></i>[Email](zhengshimao007@163.com) 
+
+## 我的主页
+
 <i class="fa fa-home"></i> [Blog](https://zhengshimao.netlify.app/) 
 <i class="fa fa-github"></i> [Github](https://github.com/zhengshimao)
 <i class="fa fa-book"></i>[知乎](https://www.zhihu.com/people/deng-tu-lang-zi-l)
@@ -17,7 +21,7 @@ https://fontawesome.com.cn/v5
 
 ## 生信技能
 
-- 编程：R>linux>perl>python
+- 编程：R > linux > perl > python
   
   脚本：https://github.com/zhengshimao/scripts
   
