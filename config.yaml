@@ -329,7 +329,7 @@ params:
   # Usage: `Key: name || permalink`
   links: 
     #link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
-    link1: 凡梦星尘空间站 || https://lisenhui.cn
+    #link1: 凡梦星尘空间站 || https://lisenhui.cn
 
   # 文章目录显示
   # Table of Contents in the Sidebar
@@ -387,7 +387,7 @@ params:
     # Beian ICP and gongan information for Chinese users. 
     # See: https://beian.miit.gov.cn, http://www.beian.gov.cn
     beian:
-      enable: true
+      enable: false
       # ICP 备案的具体信息
       icp: 粤ICP备 18047355-1 号
       # 公安网备的省份简称
