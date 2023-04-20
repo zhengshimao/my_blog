@@ -1,23 +1,41 @@
+---
+copyright: false
+date: "2023-04-20"
+description: 个人介绍。
+followme: false
+#lastmod: "2022-06-09T20:12:52+08:00"
+nav: false
+share: false
+title: 个人简历
+url: work.html
+---
+
+
+
+
+
 # 郑世茂
 
-https://fontawesome.com.cn/v5
+<i class="fa fa-user"></i> 郑世茂/男/1992.03<br>
 
-<i class="fa fa-user"></i> 郑世茂/男/1992.03
-<i class="fa fa-home-heart"/>家乡：河北衡水
-<i class="fa fa-envelope"></i>[Email](zhengshimao007@163.com) 
+<i class="fa fa-home"></i>家乡：河北衡水<br>
+
+<i class="fa fa-envelope"></i>[Email: zhengshimao007@163.com](mailto:zhengshimao007@163.com) 
 
 ## 我的主页
 
-<i class="fa fa-home"></i> [Blog](https://zhengshimao.netlify.app/) 
-<i class="fa fa-github"></i> [Github](https://github.com/zhengshimao)
-<i class="fa fa-book"></i>[知乎](https://www.zhihu.com/people/deng-tu-lang-zi-l)
+<i class="fa fa-home"></i> [Blog: https://zhengshimao.netlify.app/](https://zhengshimao.netlify.app/)  <br>
+
+<i class="fa fa-github"></i> [Github: https://github.com/zhengshimao](https://github.com/zhengshimao) <br>
+
+<i class="fa fa-book"></i>[知乎: https://www.zhihu.com/people/deng-tu-lang-zi-l](https://www.zhihu.com/people/deng-tu-lang-zi-l) <br>
 
 ## 教育经历
 
-| 学校         | 专业                 | 日期              | 学位 |
-| ------------ | -------------------- | ----------------- | ---- |
-| 太原科技大学 | 生物工程             | 2011.09 - 2015.06 | 学士 |
-| 陕西理工大学 | 生物化学与分子生物学 | 2020.09 - 2023.06 | 硕士 |
+| <i class="fa fa-university"></i> 学校 | <i class="fa fa-book-open"></i> 专业 | <i class="fa fa-calendar-alt"></i> 日期 | <i class="fa fa-user-graduate"></i> 学位 |
+| ------------------------------------- | ------------------------------------ | --------------------------------------- | ---------------------------------------- |
+| 太原科技大学                          | 生物工程                             | 2011.09 - 2015.06                       | 学士                                     |
+| 陕西理工大学                          | 生物化学与分子生物学                 | 2020.09 - 2023.06                       | 硕士                                     |
 
 ## 生信技能
 
