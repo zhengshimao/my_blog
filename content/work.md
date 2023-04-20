@@ -26,7 +26,11 @@ url: work.html
 
 <i class="fa fa-home"></i> [Blog: https://zhengshimao.netlify.app/](https://zhengshimao.netlify.app/)  <br>
 
-<i class="fa fa-github"></i> [Github: https://github.com/zhengshimao](https://github.com/zhengshimao) <br>
+<i class="fa fa-github"></i> [Github: https://github.com/zhengshimao](https://github.com/zhengshimao)    
+
+[R包 BioUncle](https://github.com/zhengshimao/BioUncle)    
+
+[个人公开脚本](https://github.com/zhengshimao/scripts)<br>
 
 <i class="fa fa-book"></i>[知乎: https://www.zhihu.com/people/deng-tu-lang-zi-l](https://www.zhihu.com/people/deng-tu-lang-zi-l) <br>
 
