@@ -16,7 +16,7 @@ url: ability/read2tree.html
 
 ## 相关链接
 
-github：https://github.com/DessimozLab/read2tree
+github：[https://github.com/DessimozLab/read2tree](https://github.com/DessimozLab/read2tree)
 
 作者：https://lab.dessimoz.org/blog/2023/04/23/read2tree-infers-trees-from-raw-reads-behind-the-paper
 
