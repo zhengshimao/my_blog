@@ -122,7 +122,7 @@ menus:
       weight: 2
     - identifier: ability
       name: 软件使用
-      pageref: /ability
+      pageref: /archives
       pre: thumbs-up
       weight: 3
     - identifier: archives
