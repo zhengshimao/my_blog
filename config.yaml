@@ -122,7 +122,7 @@ menus:
       weight: 2
     - identifier: ability
       name: 软件使用
-      pageref: /archives
+      pageref: /ability
       pre: thumbs-up
       weight: 3
     - identifier: archives
@@ -445,17 +445,7 @@ params:
       anotherDay: true
     categories: true
     wordCount: true
-    readTime: true
-
-  abilityMeta:
-    itemText: true
-    created: true
-    updated:
-      enable: true
-      anotherDay: true
-    categories: true
-    wordCount: true
-    readTime: true    
+    readTime: true 
 
   # 文章底部的设置
   # Post footer settings
