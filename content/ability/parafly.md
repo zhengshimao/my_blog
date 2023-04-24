@@ -1,17 +1,17 @@
 ---
-title:  生信上游流程必会之任务并行ParaFly
+title: 生信上游流程必会之任务并行ParaFly
 tags:
   - 软件使用
   - linux
 keywords: “软件使用,linux”
 categories:
- - 归档
+ - 软件使用
 
 date: 2022-12-16
-  
+
 toc: true
 draft: false
-url: post/parafly.html
+url: ability/parafly.html
 ---
 
 # 生信上游流程必会之任务并行ParaFly
