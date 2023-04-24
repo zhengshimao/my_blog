@@ -265,13 +265,13 @@ params:
   avatar:
     # 设置显示头像的相对路径
     # Replace the default image and set the url here.
-    url: /imgs/hugo_next_avatar.png
+    url: /imgs/me.png
     # 开启头像的圆形显示效果
     # If true, the avatar will be displayed in circle.
     rounded: true
     # 开启头像随鼠标转动动画
     # If true, the avatar will be rotated with the cursor.
-    rotated: true
+    rotated: fasle
 
   # 是否在侧边栏显示文章、分类、标签信息
   # Posts / Categories / Tags in sidebar.
