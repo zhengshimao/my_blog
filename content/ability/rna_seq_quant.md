@@ -11,7 +11,7 @@ date: 2023-04-23
   
 toc: true
 draft: false
-url: post/rna_seq_quant.html
+url: ability/rna_seq_quant.html
 ---
 
 RNA-seq定量软件有`featureCounts` , `htseq-count` ,`kallisto` , `rsem`, `salmon`, `stringtie`
