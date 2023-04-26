@@ -61,7 +61,7 @@ url: work.html
 
   Python: 能大致看懂代码，在学习中。
 
-- 能熟练地完成转录组相关地基础分析
+- 能熟练地完成转录组相关的基础分析
 
   熟悉软件：hisat2, bowtie2, stringtie, featureCounts, htseq-count, kallisto, rsem, salmon, CPC2, PLEK, RNAplonc, lncFinder, DESeq2, limma, edgeR, clusterProfiler, enrichplot, circlize,ggtree, gggenes,ggplot2, dplyr, stringr等
 - 了解其它分析
