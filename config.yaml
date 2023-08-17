@@ -121,7 +121,7 @@ menus:
       pre: user
       weight: 2
     - identifier: ability
-      name: 科研小技巧
+      name: 软件使用
       pageref: /ability
       pre: thumbs-up
       weight: 3
@@ -265,13 +265,13 @@ params:
   avatar:
     # 设置显示头像的相对路径
     # Replace the default image and set the url here.
-    url: /imgs/hugo_next_avatar.png
+    url: /imgs/me.png
     # 开启头像的圆形显示效果
     # If true, the avatar will be displayed in circle.
     rounded: true
     # 开启头像随鼠标转动动画
     # If true, the avatar will be rotated with the cursor.
-    rotated: true
+    rotated: fasle
 
   # 是否在侧边栏显示文章、分类、标签信息
   # Posts / Categories / Tags in sidebar.
@@ -329,7 +329,7 @@ params:
   # Usage: `Key: name || permalink`
   links: 
     #link0: Hugo-NexT || https://gitee.com/hugo-next/hugo-theme-next
-    link1: 凡梦星尘空间站 || https://lisenhui.cn
+    #link1: 凡梦星尘空间站 || https://lisenhui.cn
 
   # 文章目录显示
   # Table of Contents in the Sidebar
@@ -387,7 +387,7 @@ params:
     # Beian ICP and gongan information for Chinese users. 
     # See: https://beian.miit.gov.cn, http://www.beian.gov.cn
     beian:
-      enable: true
+      enable: false
       # ICP 备案的具体信息
       icp: 粤ICP备 18047355-1 号
       # 公安网备的省份简称
@@ -398,7 +398,7 @@ params:
     # 站点支持供应商列表
     # Vendors list who support website. 
     vendors:
-      enable: true
+      enable: fasle
       # 支持说明
       # Some support information description.
       title: 提供CDN/云资源支持
@@ -445,7 +445,7 @@ params:
       anotherDay: true
     categories: true
     wordCount: true
-    readTime: true
+    readTime: true 
 
   # 文章底部的设置
   # Post footer settings

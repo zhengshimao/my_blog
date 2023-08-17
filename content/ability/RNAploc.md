@@ -7,13 +7,13 @@ tags:
   - lncRNA鉴定
 keywords: “转录组,lncRNA-seq”
 categories:
- - 归档
+ - 软件使用
 
 date: 2022-11-16
   
 toc: true
 draft: false
-url: post/rnaploc.html
+url: ability/rnaploc.html
 ---
 
 #  植物lncRNA鉴定之RNAplonc（2019年发表）
