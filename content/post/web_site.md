@@ -33,8 +33,6 @@ url: post/web_site.html
 
 已公布的植物基因组：[Published Plant Genomes](https://plabipd.de/plant_genomes_pa.ep) : https://plabipd.de/plant_genomes_pa.ep
 
-### 单物种库
-
 
 
 ## 物种数据库
@@ -48,3 +46,7 @@ url: post/web_site.html
 水稻
 
 [ Rice Information GateWay (RIGW)](http://rice.hzau.edu.cn/rice_rs3/)
+
+葡萄
+
+[Institut de biologie François Jacob - Genoscope - Centre National de Séquençage (cea.fr)](https://www.cea.fr/drf/ifrancoisjacob/Pages/Departements/Genoscope.aspx)
