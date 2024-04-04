@@ -16,7 +16,7 @@ draft: false
 url: post/run_get_bioinfo_sample.sh.html
 ---
 
-# 封个Bash脚本 | 脚本根据Project 编号获取3.5种方式从ENA获取数据的脚本与执行命令
+# 封个Bash脚本 | 脚本根据Project 编号获取3.5种方式从ENA获取数据的脚本与执行命令【已转为非公开脚本】
 
 ## 脚本介绍与使用
 
