@@ -56,3 +56,4 @@ url: post/bioinfo_course.html
 
 单细胞电子书 [Analysis of single cell RNA-seq data ](https://www.singlecellcourse.org/index.html) 最后更新日期：2022-08-08
 
+单细胞实战 [Single-cell best practices — Single-cell best practices](https://www.sc-best-practices.org/preamble.html)
