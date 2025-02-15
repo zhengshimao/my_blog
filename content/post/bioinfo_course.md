@@ -37,6 +37,7 @@ url: post/bioinfo_course.html
   - m6A-seq, MeRIP-seq, miCLIP
   - Degradome-Seq (PARE-seq)
 - [8.cfDNA | Bioinformatics Tutorial](https://book.ncrnalab.org/teaching/part-iii.-ngs-data-analyses/8.cfdna)
+- [Computational Genomics with R](https://compgenomr.github.io/book/) R计算基因组学
 
 ## R语言
 
